@@ -105,3 +105,8 @@ If you're interested in some PyTorch codebases check out the following links (re
 - [More tutorials](https://github.com/pytorch/tutorials)
 - [Discuss PyTorch on the Forums](https://discuss.pytorch.org/)
 - [Chat with other users on Slack](http://pytorch.slack.com/messages/beginner/)
+
+## 8. Other
+
+* activate venv `source activate`
+* running jupyter notebook by `jupyter notebook`

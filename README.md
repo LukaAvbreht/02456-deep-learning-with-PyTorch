@@ -110,3 +110,9 @@ If you're interested in some PyTorch codebases check out the following links (re
 
 * activate venv `source activate`
 * running jupyter notebook by `jupyter notebook`
+
+# Books
+
+TODO !!
+
+[Solutions to book 1](https://zhenghaoz.github.io/neural-networks-and-deep-learning-1/?fbclid=IwAR0GjtXMOTI9oCWgfKTIvpPjWoM-iNCSh6wIBjArrZf8MWWVtdbiM5b7Pmo)
